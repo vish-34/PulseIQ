@@ -51,17 +51,6 @@ Our MVP is **production-ready**, fully functional, and runs on real APIs, real l
 
 ---
 
-## 📸 Live Demo Screens
-
-| Dashboard & Vitals | AI Health Assistant |
-|:---:|:---:|
-| ![Dashboard](/assets/dashboard.png) | ![AI Chat](/assets/ai-chat.png) |
-| **Unified Health View** | **Medical Explanations** |
-
-| Crash Simulation | Emergency Response |
-|:---:|:---:|
-| ![Crash Flow](/assets/crash-flow.png) | ![Emergency Screen](/assets/emergency-screen.png) |
-| **Autonomous Trigger** | **Hospital Handoff** |
 
 ---
 
@@ -70,11 +59,11 @@ Our MVP is **production-ready**, fully functional, and runs on real APIs, real l
 | Component | Technology |
 | :--- | :--- |
 | **Frontend** | React, Tailwind CSS |
-| **Backend** | Node.js, Express |
-| **Database** | Firebase / MongoDB |
+| **Backend** | Node.js, Python |
+| **Database** | LocalStorage |
 | **AI Layer** | Fine-tuned LLMs + Custom Medical Prompt-Engine |
-| **Crash Engine** | Sensor Logic Simulation + Agent Workflows |
-| **Cloud & APIs** | AWS, TensorFlow, REST APIs, Google Maps API |
+| **Crash Engine** | Sensor Logic Simulation + Agent Workflows | (For Now stimulated on a button)
+| **Cloud & APIs** | FAST APIs, REST APIs, Google Maps API , Twilio|
 
 ---
 
