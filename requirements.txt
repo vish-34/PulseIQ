@@ -1,0 +1,21 @@
+# Trauma Detection System - Requirements
+
+# Web Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+
+# HTTP Client
+httpx==0.25.1
+
+# Twilio (Optional - for real calls/SMS)
+twilio==8.10.0
+
+# QR Code Generation
+qrcode[pil]>=7.4.2
+Pillow>=12.0.0
+
+# Utilities
+python-dotenv==1.0.0
+
