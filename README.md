@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 PulseIQ
+#  PulseIQ
 ### Your AI-Powered Preventive Health & Emergency Guardian
 **Built for Mumbai Hacks 2025**
 
